@@ -34,8 +34,5 @@
   <a href="https://android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamen&show_icons=true&locale=en&layout=compact" alt="hamen" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamen&show_icons=true&locale=en" alt="hamen" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamen&show_icons=true&locale=en" alt="hamen" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamen&" alt="hamen" /></p>
