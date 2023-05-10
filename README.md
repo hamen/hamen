@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamen" target="blank"><img src="https://img.shields.io/twitter/follow/hamen?logo=twitter&style=for-the-badge" alt="hamen" /></a> </p>
 
-- 🔭 I’m currently collaborating with companies like [Novoda](https://novoda.com/) and [SnappMobile](https://snappmobile.io/)
+- 🔭 I’m currently collaborating with companies like [BigNerdRanch](https://bignerdranch.com/), [Novoda](https://novoda.com/) and [SnappMobile](https://snappmobile.io/)
 
 - 🌱 I’m currently learning **Jetpack Compose** with [@rock3r](https://github.com/rock3r) streaming live ▶ on [Code With The Italians](http://codewiththeitalians.it)
 
