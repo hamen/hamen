@@ -5,7 +5,7 @@
 
 - 🍕 Streaming with [CWTI](https://codewiththeitalians.t)
 
-- 🔭 I’m currently collaborating with companies like [Amdocs](https://www.amdocs.com/)), [Novoda](https://novoda.com/) and [SnappMobile](https://snappmobile.io/)
+- 🔭 I’m currently collaborating with companies like [Amdocs](https://www.amdocs.com/), [Novoda](https://novoda.com/) and [SnappMobile](https://snappmobile.io/)
 
 - 📝 I every now and then write articles on [ivanmorgillo.com](https://ivanmorgillo.com/)
 
