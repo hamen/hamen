@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">I'm an Android consultant. I wrote a couple of books & I read a few more. I build Rails app on the side.</h3>
+<h3 align="center">I'm an Flutter/Android and Rails consultant. I wrote a couple of books & I read a few more.</h3>
 
 - 🏗️ Building apps at [https://indiepa.ge/ivanmorgillo](https://indiepa.ge/ivanmorgillo)
 
