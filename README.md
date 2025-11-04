@@ -5,11 +5,11 @@
 
 - 🍕 Streaming with [CWTI](https://codewiththeitalians.t)
 
-- 🔭 I’m currently collaborating with companies like [Amdocs](https://www.amdocs.com/), [Novoda](https://novoda.com/) and [SnappMobile](https://snappmobile.io/)
+- 🔭 I’m currently collaborating with companies like Amdocs, Google and JetBrains.
 
 - 📝 I every now and then write articles on [ivanmorgillo.com](https://ivanmorgillo.com/)
 
-- 💬 Ask me about **Android, Kotlin, DDD, Rails**
+- 💬 Ask me about **AI, Mobile, DDD, Rails**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamen&label=Profile%20views&color=0e75b6&style=flat" alt="hamen" /> </p>
 
