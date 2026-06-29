@@ -36,5 +36,4 @@
   <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hamen&show_icons=true&locale=en" alt="hamen" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=hamen&theme=dark" alt="hamen" /></p>
