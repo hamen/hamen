@@ -7,7 +7,7 @@
 
 - 🔭 Consulting for Amdocs on a Google project; I have commits in the JetBrains IntelliJ repo
 
-- 🏗️ Indie apps: [kindlegratis.fun](https://kindlegratis.fun) · [trainblackjack.app](https://trainblackjack.app) · [streakup.fit](https://streakup.fit) · [bedtimestories.click](https://bedtimestories.click) · [mygoo.fun](https://mygoo.fun) · [3things.day](https://3things.day)
+- 🏗️ Indie apps: [kindlegratis.fun](https://kindlegratis.fun?utm_source=github&utm_medium=profile&utm_campaign=profile) · [trainblackjack.app](https://trainblackjack.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [streakup.fit](https://streakup.fit?utm_source=github&utm_medium=profile&utm_campaign=profile) · [bedtimestories.click](https://bedtimestories.click?utm_source=github&utm_medium=profile&utm_campaign=profile) · [3things.day](https://3things.day?utm_source=github&utm_medium=profile&utm_campaign=profile) · [swimminglane.app](https://swimminglane.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [nowastefood.app](https://nowastefood.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [brainrottax.app](https://brainrottax.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [mygoo.fun](https://mygoo.fun?utm_source=github&utm_medium=profile&utm_campaign=profile) · [epic ai wallpapers](https://cwti-ltd.github.io/ai-wallpapers/?utm_source=github&utm_medium=profile&utm_campaign=profile)
 
 - 🍕 Streaming with [CWTI](https://codewiththeitalians.it)
 
