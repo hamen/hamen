@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ivan Morgillo</h1>
-<h3 align="center">Kotlin & Flutter consultant. Indie app developer. I ship things with AI.</h3>
+<h3 align="center">Mobile, AI and ALL-THE-THINGS consultant. Indie app developer. I build things with AI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamen&label=Profile%20views&color=0e75b6&style=flat" alt="hamen" /> </p>
+- 🔭 I have worked for Amdocs, Google, JetBrains, Bending Spoons, and more.
 
-<p align="left"> <a href="https://twitter.com/hamen" target="blank"><img src="https://img.shields.io/twitter/follow/hamen?logo=twitter&style=for-the-badge" alt="hamen" /></a> </p>
-
-- 🔭 Consulting for Amdocs on a Google project; I have commits in the JetBrains IntelliJ repo
-
-- 🏗️ Indie apps: [kindlegratis.fun](https://kindlegratis.fun?utm_source=github&utm_medium=profile&utm_campaign=profile) · [trainblackjack.app](https://trainblackjack.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [streakup.fit](https://streakup.fit?utm_source=github&utm_medium=profile&utm_campaign=profile) · [bedtimestories.click](https://bedtimestories.click?utm_source=github&utm_medium=profile&utm_campaign=profile) · [3things.day](https://3things.day?utm_source=github&utm_medium=profile&utm_campaign=profile) · [swimminglane.app](https://swimminglane.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [nowastefood.app](https://nowastefood.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [brainrottax.app](https://brainrottax.app?utm_source=github&utm_medium=profile&utm_campaign=profile) · [mygoo.fun](https://mygoo.fun?utm_source=github&utm_medium=profile&utm_campaign=profile) · [epic ai wallpapers](https://cwti-ltd.github.io/ai-wallpapers/?utm_source=github&utm_medium=profile&utm_campaign=profile)
+- 🏗️ Indie apps:
+  * [kindlegratis.fun](https://kindlegratis.fun?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [trainblackjack.app](https://trainblackjack.app?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [streakup.fit](https://streakup.fit?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [bedtimestories.click](https://bedtimestories.click?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [3things.day](https://3things.day?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [swimminglane.app](https://swimminglane.app?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [nowastefood.app](https://nowastefood.app?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [brainrottax.app](https://brainrottax.app?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [mygoo.fun](https://mygoo.fun?utm_source=github&utm_medium=profile&utm_campaign=profile)
+  * [epic ai wallpapers](https://cwti-ltd.github.io/ai-wallpapers/?utm_source=github&utm_medium=profile&utm_campaign=profile)
 
 - 🍕 Streaming with [CWTI](https://codewiththeitalians.it)
 
 - 📝 I write on [ivanmorgillo.com](https://ivanmorgillo.com/)
 
 - 💬 Ask me about **AI, Mobile, Kotlin, DDD, Rails**
-
-- 🤖 Daily tools: Claude Code · Codex · Cursor · Gemini · Antigravity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,5 +39,3 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=hamen&theme=dark" alt="hamen" /></p>
